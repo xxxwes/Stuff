@@ -1,5 +1,5 @@
 # Stuff
 
-Einfach nur Code-Schnipsel
+Code-Schnipsel
 
-cyl_Rechner ist ein einfacher Python-Taschenrechner.
+cyl_rechner ist ein einfacher Python-Taschenrechner.
